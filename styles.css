@@ -233,6 +233,7 @@
      box-shadow: var(--box-shadow);
      justify-content: space-between;
      padding: 24px;
+     row-gap: 30px;
  }
 
  .menu-header,
